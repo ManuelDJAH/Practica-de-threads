@@ -1,0 +1,3 @@
+Este es un archivo de prueba.
+Contiene varias líneas de texto.
+Cada línea tiene algunos caracteres.
